@@ -3,5 +3,4 @@ echo "I am from Young minds"
 echo "We are from batch-27 and learning DevOps"
 echo "I am working in REQ092348"
 echo "I have learnt Github and Git"
-echo "New Change for New Learnings"
-echo "Github Actions"
+echo "New Pull Request INC0112
